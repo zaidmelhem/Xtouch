@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+}
+.alink{
+    text-decoration: none;
+    color: gray;
+    padding-left: 0%;
+}
+ul{
+    padding: 0%;
+}
